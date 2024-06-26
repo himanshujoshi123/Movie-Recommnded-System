@@ -22,7 +22,7 @@ def recommend(movie):
 
 
 # Specify the path to your zip folder and the name of the pkl file inside it
-zip_folder_path = r'C:\Users\Himanshu Joshi\Desktop\Machine Learning\Movies-recommender-system\pythonProject\similarity.zip'
+zip_folder_path = 'similarity.zip'
 pkl_filename = 'similarity.pkl'
 
     # Open the zip file
